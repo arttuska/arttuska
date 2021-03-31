@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arttuska
 - 👀 I’m interested in techno & sauna
-- 🌱 I’m currently learning Rect
 - 📫 How to reach me: uska.li
 
 <!---
